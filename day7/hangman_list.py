@@ -77,7 +77,6 @@ word_list = [
     'icebox',
     'injury',
     'ivory',
-    'ivy',
     'jackpot',
     'jaundice',
     'jawbreaker',

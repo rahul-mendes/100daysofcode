@@ -48,12 +48,6 @@ data = [
         'country': 'Argentina'
     },
     {
-        'name': 'Beyoncé',
-        'follower_count': 145,
-        'description': 'Musician',
-        'country': 'United States'
-    },
-    {
         'name': 'Neymar',
         'follower_count': 138,
         'description': 'Footballer',
